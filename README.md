@@ -38,5 +38,6 @@ for farmers, not just a model that works on a benchmark.
 ### reach me
 
 always down to connect, learn from others, or just talk ML.
+[website](https://aiharsh.me) · [linkedin](https://linkedin.com/in/aiharsh) · [email](mailto:harshshahiip@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ai-harsh&color=blue&style=flat)
