@@ -1,4 +1,4 @@
-# hey, I'm HARSH xD 👋
+# hey, I'm Harsh Shahi 👋
 
 still learning, but building stuff along the way. right now I'm into
 computer vision — image classification, training models, figuring out
